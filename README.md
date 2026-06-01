@@ -30,7 +30,7 @@ A sleek, responsive, and minimalist weather web app that fetches live global wea
 
 ## 📸 Interface Preview
 
-![Application Preview] (<img width="1920" height="1440" alt="909_1x_shots_so" src="https://github.com/user-attachments/assets/ae1bca89-2459-4fba-a6bc-26e85ef7343e" />)
+![Application Preview] <img width="1920" height="1440" alt="909_1x_shots_so" src="https://github.com/user-attachments/assets/ae1bca89-2459-4fba-a6bc-26e85ef7343e" />
 
 ---
 
