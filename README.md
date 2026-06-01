@@ -2,7 +2,7 @@
 
 A sleek, responsive, and minimalist weather web app that fetches live global weather data without requiring restrictive API keys. Designed with a modern glassmorphism UI, the application dynamically shifts its visual state based on real-time environmental conditions.
 
-🔗 **[Live Demo URL](https://your-username.github.io/your-repo-name/)**
+🔗 **[Live Demo URL](https://rajeshwari2805.github.io/weather-app/)**
 
 ---
 
@@ -31,8 +31,6 @@ A sleek, responsive, and minimalist weather web app that fetches live global wea
 ## 📸 Interface Preview
 
 ![Application Preview] (<img width="1920" height="1440" alt="909_1x_shots_so" src="https://github.com/user-attachments/assets/ae1bca89-2459-4fba-a6bc-26e85ef7343e" />)
-
-*(Tip: Replace this link with your exported Shots.so mockup image once you upload it to your repo!)*
 
 ---
 
